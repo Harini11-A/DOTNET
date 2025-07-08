@@ -1,4 +1,5 @@
-﻿# WeekOne
+# WeekOne
+
 # 📅Day 1: C# Programming Basics
 
 Welcome to Day 1 of my .NET full-stack journey.
